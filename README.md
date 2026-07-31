@@ -1,47 +1,122 @@
-# Hi, I'm Salman Khan
+<div align="center">
 
-Flutter Developer focused on building clean, scalable mobile applications with modern backend services.  
-Currently working across Flutter, FastAPI, Firebase, and React while expanding into full-stack development.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:8B5CF6,100:06B6D4&height=220&section=header&text=Salman%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20%2B%20Backend%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-## What I Work With
+Building modern mobile applications with scalable backend services.
+Focused on **Flutter · FastAPI · Firebase** and clean UI/UX.
 
-| Area | Technologies |
-|------|--------------|
-| Mobile | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
-| Backend | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
-| Database | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| Tools | Git · GitHub · VS Code · Android Studio |
+<br/>
+
+</div>
 
 ---
 
-## Currently
+<div align="center">
 
-- Building **WorkConnect**, a Flutter + FastAPI platform connecting workers with employers.
-- Learning advanced Flutter architecture and improving backend development with FastAPI.
+### 🛠 Tech Stack
 
----
-
-## Highlighted Projects
-
-- **WorkConnect** — A worker hiring platform built with Flutter, FastAPI, Firebase, and MongoDB.
-- **CementO** — Multi-vendor construction materials marketplace with role-based authentication and order management.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&bg_color=30,0f2027,203a43,2c5364" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&bg_color=30,0f2027,203a43,2c5364" />
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
-## Connect
+<div align="center">
 
-- LinkedIn: *(add your profile URL)*
-- Portfolio: *(add your portfolio URL)*
-- Email: *(add your email)*
+### 🎯 Current Focus
+
+🚧 Building **WorkConnect** — a worker hiring platform powered by Flutter, FastAPI & Firebase
+📚 Sharpening skills in advanced Flutter architecture and backend engineering with FastAPI
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Featured Projects
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**WorkConnect**
+Worker hiring platform connecting employers and skilled workers.
+
+`Flutter` `FastAPI` `Firebase` `MongoDB`
+
+[Repository →](https://github.com/your-username/workconnect)
+
+</td>
+<td width="50%" valign="top">
+
+**CementO**
+Multi-vendor construction materials marketplace.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[Repository →](https://github.com/your-username/cemento)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=c9d1d9" width="42%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=00000000&color=06B6D4&line=8B5CF6&point=4F46E5" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔗 Connect
+
+<p>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:4F46E5&height=120&section=footer"/>
+
+<div align="center">
+<sub>Thanks for stopping by ✨</sub>
+</div>
