@@ -34,49 +34,7 @@ Focused on **Flutter · FastAPI · Firebase** and clean UI/UX.
 
 ---
 
-<div align="center">
 
-### 🎯 Current Focus
-
-🚧 Building **WorkConnect** — a worker hiring platform powered by Flutter, FastAPI & Firebase
-📚 Sharpening skills in advanced Flutter architecture and backend engineering with FastAPI
-
-</div>
-
----
-
-<div align="center">
-
-### 💼 Featured Projects
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**WorkConnect**
-Worker hiring platform connecting employers and skilled workers.
-
-`Flutter` `FastAPI` `Firebase` `MongoDB`
-
-[Repository →](https://github.com/Salman-Dev336/workconnect)
-
-</td>
-<td width="50%" valign="top">
-
-**CementO**
-Multi-vendor construction materials marketplace.
-
-`React` `Node.js` `Express` `MongoDB`
-
-[Repository →](https://github.com/Salman-Dev336/cemento)
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
