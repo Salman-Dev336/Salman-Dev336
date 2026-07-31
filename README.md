@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Salman Khan
 
 Flutter Developer focused on building clean, scalable mobile applications with modern backend services.  
@@ -46,4 +45,3 @@ Currently working across Flutter, FastAPI, Firebase, and React while expanding i
 - LinkedIn: *(add your profile URL)*
 - Portfolio: *(add your portfolio URL)*
 - Email: *(add your email)*
-```
